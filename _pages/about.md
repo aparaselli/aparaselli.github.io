@@ -13,5 +13,4 @@ Before Brown, I completed my B.S. in Mathematics–Computer Science at UC San Di
 
 ## Updates
 - **Aug 2026:** We presented our work "Understanding the Effects of Modality in Context-Memory Conflicts" at [NEMI ’26](https://nemiconf.github.io/summer26/)!
-
 - **Sep 2025:** Started my Master's at Brown University!
