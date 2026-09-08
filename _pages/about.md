@@ -14,7 +14,7 @@ Before Brown, I completed my B.S. in Mathematics–Computer Science at UC San Di
 ## Selected Publications
 
 **Slow to See, Slow to Suppress: Understanding the Effects of Modality in Context-Memory Conflicts**  
-**Athulith Paraselli**, Etha Tianze Hua, Ellie Pavlick  
+**Athulith Paraselli**, [Etha Tianze Hua](https://ethahtz.github.io/), [Ellie Pavlick](https://cs.brown.edu/people/epavlick/)  
 *Findings of EMNLP 2026*  
 [[Paper]](https://arxiv.org/abs/2609.00293) [[Project page]](https://aparaselli.github.io/slow-to-see/) [[Code]](https://github.com/aparaselli/slow-to-see-slow-to-suppress)
 
