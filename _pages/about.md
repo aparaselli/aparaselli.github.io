@@ -15,7 +15,8 @@ Before Brown, I completed my B.S. in Mathematics–Computer Science at UC San Di
 
 **Slow to See, Slow to Suppress: Understanding the Effects of Modality in Context-Memory Conflicts**  
 Athulith Paraselli, Etha Tianze Hua, Ellie Pavlick.  
-*Findings of EMNLP 2026.* [paper](https://arxiv.org/abs/2609.00293) [project page](https://aparaselli.github.io/slow-to-see/) [code](https://github.com/aparaselli/slow-to-see-slow-to-suppress)
+*Findings of EMNLP 2026.* [[Paper]](https://arxiv.org/abs/2609.00293) [[Project page]](https://aparaselli.github.io/slow-to-see/)
+[[Code]](https://github.com/aparaselli/slow-to-see-slow-to-suppress)
 
 ## Updates
 - **Aug 2026:** Our work "[Slow to See, Slow to Suppress: Understanding the Effects of Modality in Context-Memory Conflicts](https://arxiv.org/abs/2609.00293)" was accepted into Findings of EMNLP 2026, and we presented it at [NEMI ’26](https://nemiconf.github.io/summer26/)!
