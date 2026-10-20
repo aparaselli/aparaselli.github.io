@@ -19,5 +19,6 @@ Before Brown, I completed my B.S. in Mathematics–Computer Science at UC San Di
 [[Paper]](https://arxiv.org/abs/2609.00293) [[Project page]](https://aparaselli.github.io/slow-to-see/) [[Code]](https://github.com/aparaselli/slow-to-see-slow-to-suppress)
 
 ## Updates
+- **Oct 2026:** Our work "[Predicting Bioluminescent Algal Blooms by Conditioning Neural Forecasts on Reconstructed Dynamics](https://openreview.net/forum?id=oV7jfHq5TK)" was accepted into the Workshop on AI for Stochastic Dynamics at NeurIPS 2026!
 - **Aug 2026:** Our work "[Slow to See, Slow to Suppress: Understanding the Effects of Modality in Context-Memory Conflicts](https://arxiv.org/abs/2609.00293)" was accepted into Findings of EMNLP 2026, and we presented it at [NEMI ’26](https://nemiconf.github.io/summer26/)!
 - **Sep 2025:** Started my Master's at Brown University!
